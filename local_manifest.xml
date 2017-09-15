@@ -4,9 +4,6 @@
 <project path="device/htc/m8-common" name="izzaeroth/android_device_htc_m8-common" remote="github" revision="cm-14.1" />
 <project path="device/htc/msm8974-common" name="izzaeroth/android_device_htc_msm8974-common" remote="github" revision="cm-14.1" />
 <project path="kernel/htc/msm8974" name="izzaeroth/android_kernel_htc_msm8974" remote="github" revision="cm-14.1" />
-<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
 <project path="hardware/sony/thermanager" name="LineageOS/android_hardware_sony_thermanager" remote="github" revision="cm-14.1" />
-<project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
 <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="github" revision="cm-14.1" />
-<project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />
 </manifest>
